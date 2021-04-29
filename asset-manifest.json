@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ravenous/static/css/main.5d763991.chunk.css",
+    "main.js": "/ravenous/static/js/main.d2215674.chunk.js",
+    "main.js.map": "/ravenous/static/js/main.d2215674.chunk.js.map",
+    "runtime-main.js": "/ravenous/static/js/runtime-main.54f2683e.js",
+    "runtime-main.js.map": "/ravenous/static/js/runtime-main.54f2683e.js.map",
+    "static/js/2.b3faed19.chunk.js": "/ravenous/static/js/2.b3faed19.chunk.js",
+    "static/js/2.b3faed19.chunk.js.map": "/ravenous/static/js/2.b3faed19.chunk.js.map",
+    "index.html": "/ravenous/index.html",
+    "static/css/main.5d763991.chunk.css.map": "/ravenous/static/css/main.5d763991.chunk.css.map",
+    "static/js/2.b3faed19.chunk.js.LICENSE.txt": "/ravenous/static/js/2.b3faed19.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/ravenous/static/media/background_search_mobile.a6f8ee50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54f2683e.js",
+    "static/js/2.b3faed19.chunk.js",
+    "static/css/main.5d763991.chunk.css",
+    "static/js/main.d2215674.chunk.js"
+  ]
+}
